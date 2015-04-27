@@ -4,7 +4,7 @@ You can see the documentation live online at <https://rvm.io/>.
 
 ## Quick corrections
 
-For small changes like single wording fixes it is enough to use Github builtin editor,
+For small changes like single wording fixes it is enough to use GitHub builtin editor,
 navigate to https://github.com/rvm/rvm-site/tree/master/content, find the page to fix
 and press the **Edit** button, try to give meaningful description so it is easier to
 understand why this change is needed.
@@ -56,7 +56,7 @@ Validating site links integrity with Nanoc:
 
 ## Update Submission
 
-Once you are satisfied with your changes to the documentation push it back to your Github fork
+Once you are satisfied with your changes to the documentation push it back to your GitHub fork
 and initiate a pull request.
 
 ## Thanks
